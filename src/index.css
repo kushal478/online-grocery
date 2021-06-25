@@ -1,0 +1,16 @@
+body {
+  font-family: cursive;
+  }
+  .landing-page
+  {
+  background-image: url("./assets/img/vegi_01.jpg");
+  background-size: cover;
+  height: 100vh;
+  color:whitesmoke;
+  }
+  
+  .wrapper
+  {
+  background-color: rgba(0, 0, 0, 0.5);
+  height: 100%;
+  }
